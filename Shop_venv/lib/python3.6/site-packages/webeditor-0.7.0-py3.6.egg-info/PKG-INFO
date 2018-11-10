@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: webeditor
+Version: 0.7.0
+Summary: Useful towel-related stuff.
+Home-page: https://test.pypi.org/pypi/webeditor/
+Author: shenli
+Author-email: shenli1120@qq.com
+License: LICENSE.txt
+Description: default port 8000
+        
+        useage:
+        
+        webeditor {port}
+Platform: UNKNOWN
